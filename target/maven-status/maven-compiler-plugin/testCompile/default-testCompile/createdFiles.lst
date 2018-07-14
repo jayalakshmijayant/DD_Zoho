@@ -1,0 +1,5 @@
+com\qtpselenium\Zoho\project\testcases\LeadTest.class
+com\qtpselenium\Zoho\project\testcases\DealTest.class
+com\qtpselenium\Zoho\project\testcases\LoginTest.class
+com\qtpselenium\Zoho\project\App.class
+com\qtpselenium\Zoho\project\BaseTest\Testcase_BaseClass.class
